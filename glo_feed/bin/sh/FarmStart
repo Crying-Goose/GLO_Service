@@ -1,0 +1,9 @@
+#!/bin/sh
+# 
+# Copyright (c) 2023 by Chang's Co., Ltd
+# All rights reserved.
+#
+
+$GLOHOME/bin/gfmaind
+# End of List
+
